@@ -8,3 +8,6 @@ logging:
   level:
     io:
       pivotal: DEBUG
+greeting:
+  displayFortune: true
+
